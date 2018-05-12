@@ -10,6 +10,8 @@ public class TestingStrategyPattern2 {
 		Product p4 = factoriaProducto.crearProducto("M");
 		Product p5 = factoriaProducto.crearProducto("A");
 		
+		//comente el primer producto
+		//otro comentario
 		//p1.intentarDesplazarse();
 		p2.intentarDesplazarse();
 		p3.intentarDesplazarse();
